@@ -36,20 +36,7 @@
 * **Drag and Drop Engine:** `react-beautiful-dnd`
 * **Icons:** `lucide-react`
 * **Routing:** `react-router-dom`
-* **Deployment:** Vercel
+* **Deployment:** Vercel 
 
----
 
-## 🚀 Getting Started (Local Setup)
 
-Want to run this project locally? Follow these simple steps:
-
-### Prerequisites
-Make sure you have **Node.js** and **Git** installed on your system.
-
-### Installation
-
-1. **Clone the frontend repository:**
-   ```bash
-   git clone [https://github.com/rajitchadar59/bug-tracker-frontend.git](https://github.com/rajitchadar59/bug-tracker-frontend.git)
-   cd bug-tracker-frontend
