@@ -1,4 +1,4 @@
-const IS_PROD = false;
+const IS_PROD = true;
 
 const server = IS_PROD 
   ? "https://bug-tracker-backend-ynti.onrender.com/api" 
